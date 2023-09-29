@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "smartmoney",
+    "slug": "smartmoney",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.jeftermnb.smartmoney"
+    }
+  }
+}
